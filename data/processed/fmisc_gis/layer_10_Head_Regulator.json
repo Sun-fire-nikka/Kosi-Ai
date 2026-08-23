@@ -1,0 +1,209 @@
+{
+  "layer_id": 10,
+  "layer_name": "Head Regulator",
+  "field_count": 40,
+  "fields": [
+    {
+      "name": "BEAMS.Head_Regulator.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_ID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CAN_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CAN_ID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_NAME_1",
+      "type": "esriFieldTypeString",
+      "alias": "HR_NAME_1"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_GATE",
+      "type": "esriFieldTypeDouble",
+      "alias": "HR_GATE"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_GATE_U",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE_U"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_REMARKS"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_FL_ACTI",
+      "type": "esriFieldTypeString",
+      "alias": "HR_FL_ACTI"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_TS"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_UPD_ID",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_UPD_TS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_UPD_TS"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_DIV_ID"
+    },
+    {
+      "name": "BEAMS.Head_Regulator.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CAN_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CAN_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.CANNAME",
+      "type": "esriFieldTypeString",
+      "alias": "CANNAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "HR_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_GATE",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_GATE_U",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE_U"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.UNIT_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "UNIT_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "HR_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CRT_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_CRT_TS"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HRCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "HRCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_UPD_TS"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HRUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "HRUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_DIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME"
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:42.214189"
+}

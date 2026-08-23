@@ -1,0 +1,184 @@
+{
+  "layer_id": 18,
+  "layer_name": "Embankment",
+  "field_count": 35,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "EMB_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_NAME"
+    },
+    {
+      "name": "EMB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ID"
+    },
+    {
+      "name": "EMB_SCEMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_SCEMB_"
+    },
+    {
+      "name": "EMB_SCEMB1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEMB1"
+    },
+    {
+      "name": "EMBSCEMBSU",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMBSCEMBSU"
+    },
+    {
+      "name": "EMB_ECEMB_",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEMB_"
+    },
+    {
+      "name": "EMB_ECEMB1",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_ECEMB1"
+    },
+    {
+      "name": "EMBECEMBSU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBECEMBSU"
+    },
+    {
+      "name": "EMB_TLEMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_TLEMB_"
+    },
+    {
+      "name": "EMB_TLEMB1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEMB1"
+    },
+    {
+      "name": "EMBTLEMBSU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBTLEMBSU"
+    },
+    {
+      "name": "EMB_SCEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEM_1"
+    },
+    {
+      "name": "EMB_SCEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEM_2"
+    },
+    {
+      "name": "EMBSCEMBGU",
+      "type": "esriFieldTypeDate",
+      "alias": "EMBSCEMBGU"
+    },
+    {
+      "name": "EMB_REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_REMARK"
+    },
+    {
+      "name": "EMB_FL_ACT",
+      "type": "esriFieldTypeDate",
+      "alias": "EMB_FL_ACT"
+    },
+    {
+      "name": "EMB_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_B_ID"
+    },
+    {
+      "name": "BASIN",
+      "type": "esriFieldTypeString",
+      "alias": "BASIN"
+    },
+    {
+      "name": "EMB_RIV_ID",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_RIV_ID"
+    },
+    {
+      "name": "RIVNAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIVNAME"
+    },
+    {
+      "name": "EMB_DWF",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DWF"
+    },
+    {
+      "name": "EMB_DWF_U",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DWF_U"
+    },
+    {
+      "name": "EMBDWFU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBDWFU"
+    },
+    {
+      "name": "EMB_DSRS",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DSRS"
+    },
+    {
+      "name": "EMB_DSCS",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_DSCS"
+    },
+    {
+      "name": "EMB_CSD",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_CSD"
+    },
+    {
+      "name": "EMB_CED",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_CED"
+    },
+    {
+      "name": "EMB_ECEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEM_1"
+    },
+    {
+      "name": "EMB_ECEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEM_2"
+    },
+    {
+      "name": "EMBECEMBGU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBECEMBGU"
+    },
+    {
+      "name": "EMB_TLEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEM_1"
+    },
+    {
+      "name": "EMB_TLEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEM_2"
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "SHAPE.LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE.LEN"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:06:47.876376"
+}

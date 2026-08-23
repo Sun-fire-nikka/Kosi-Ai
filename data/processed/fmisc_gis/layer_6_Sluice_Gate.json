@@ -1,0 +1,104 @@
+{
+  "layer_id": 6,
+  "layer_name": "Sluice Gate",
+  "field_count": 19,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "SG_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_ID"
+    },
+    {
+      "name": "SG_ESEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_ESEC_ID"
+    },
+    {
+      "name": "SG_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SG_CH"
+    },
+    {
+      "name": "SG_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CH_U"
+    },
+    {
+      "name": "SG_SIZE",
+      "type": "esriFieldTypeString",
+      "alias": "SG_SIZE"
+    },
+    {
+      "name": "SG_SIZE_U",
+      "type": "esriFieldTypeString",
+      "alias": "SG_SIZE_U"
+    },
+    {
+      "name": "SG_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_RIV_ID"
+    },
+    {
+      "name": "SG_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "SG_REMARKS"
+    },
+    {
+      "name": "SG_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CRT_ID"
+    },
+    {
+      "name": "SG_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CRT_TS"
+    },
+    {
+      "name": "SG_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_UPD_ID"
+    },
+    {
+      "name": "SG_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "SG_UPD_TS"
+    },
+    {
+      "name": "SG_FL_ACTI",
+      "type": "esriFieldTypeString",
+      "alias": "SG_FL_ACTI"
+    },
+    {
+      "name": "SG_TYPE",
+      "type": "esriFieldTypeString",
+      "alias": "SG_TYPE"
+    },
+    {
+      "name": "SG_G_NO",
+      "type": "esriFieldTypeString",
+      "alias": "SG_G_NO"
+    },
+    {
+      "name": "SG_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CHA_ID"
+    },
+    {
+      "name": "SG_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_B_ID"
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:38.303972"
+}

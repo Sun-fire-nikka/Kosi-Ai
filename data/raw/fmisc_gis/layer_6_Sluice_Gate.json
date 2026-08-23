@@ -1,0 +1,208 @@
+{
+  "currentVersion": 10.31,
+  "id": 6,
+  "name": "Sluice Gate",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPoint",
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "BEAMS.BEAMS_KOSI"
+  },
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriPMS",
+        "url": "8dc8a69d81d1f1aa5979b1b8cf7ca9dc",
+        "imageData": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAnZJREFUOI2lk11IU3EYxp/z5dmmdFjszHnRRh7hzBkJQ9xFJaYGzYmFayHTspvAG+miu3IR3fUJzoRuAkk2KJLhV4KgTQsq22wGibtQG2vNtNocajpzdmE7OEW66L16/7zP8+P94E/jP4Per6Azl9ceLiu+DwBzY5NXQ4Pe3n8CxEtnWrCZ+hrs6utOKhjmkKm4AACCvikGAMQGyzkwdF6ws6d9D0BsslwpPlt1bWNl5RdSKSKxltzKgDdYbIbqE3eZbIWMBpn61OnpyADIOY7C5m+WLxTUBuDe2ycDI5J7ec1isFZW8HpBFw9FlhhOIfmkJOB0P2AJigDg4AsFXWljtZkkSIAAShurzbxe0MRDkaUvrz7cDLS52jIALMseB4DAo2fvfsyG+41NtTW5RQWatCi3qEATnw0vTbh6e8Iv3vjS+vX19dc0ABy7cdmdV3JUlTaQNMXs3jar5LJNzXabqdluA4Co7+P3kesPtTQAUFkykmaz5JKaIHb7QdI0TVKUNDKVJSOlERanZ1oTc1EGAOajC6eNtsqTvF5Q7gQkItHYRPfwsCZXPbTd/uqGBAg89nQCgGg31xvPV5XwYr4yNhteVvAHcwBgdfHnMq8XlEYrUTrVP/Y86B54uucKot1cb6gpv82L+dr4XCQ27up9WdZysQ4Axl2DQ6YLlgpen681YOsOAKQhEiBHpSyScwf4+OdIfGbU70iSzDyAOgBIknDPjL73CiBuyTlOlaPijgDIBPidbgcIigBS3/xOV0ee9ZR15w78ba52AARAqv1Ot2PPCNuirlbpkdxILUxOx9L5X4hz93X2/Y3RPq8n2uf17FdPxx/eHdfpYw0FjQAAAABJRU5ErkJggg==",
+        "contentType": "image/png",
+        "width": 12,
+        "height": 12,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      "label": "",
+      "description": ""
+    },
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": false,
+  "extent": {
+    "xmin": 414637.6669,
+    "ymin": 2809748.9573,
+    "xmax": 518089.8411,
+    "ymax": 2942737.9963,
+    "spatialReference": {
+      "wkid": 32645,
+      "latestWkid": 32645
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "SG_ID",
+  "typeIdField": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SG_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_ESEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_ESEC_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SG_CH",
+      "domain": null
+    },
+    {
+      "name": "SG_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CH_U",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_SIZE",
+      "type": "esriFieldTypeString",
+      "alias": "SG_SIZE",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_SIZE_U",
+      "type": "esriFieldTypeString",
+      "alias": "SG_SIZE_U",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_RIV_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "SG_REMARKS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CRT_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CRT_TS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_UPD_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "SG_UPD_TS",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "SG_FL_ACTI",
+      "type": "esriFieldTypeString",
+      "alias": "SG_FL_ACTI",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_TYPE",
+      "type": "esriFieldTypeString",
+      "alias": "SG_TYPE",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_G_NO",
+      "type": "esriFieldTypeString",
+      "alias": "SG_G_NO",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_CHA_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SG_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SG_B_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    }
+  ],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "hasM": true,
+  "supportedQueryFormats": "JSON, AMF",
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": false,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true
+  },
+  "dateFieldsTimeReference": null
+}

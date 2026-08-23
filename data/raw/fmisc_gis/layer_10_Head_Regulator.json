@@ -1,0 +1,391 @@
+{
+  "currentVersion": 10.31,
+  "id": 10,
+  "name": "Head Regulator",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPoint",
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "BEAMS.BEAMS_KOSI"
+  },
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriPMS",
+        "url": "e2aebb18b9921e6e7d9d01bd17fa4af6",
+        "imageData": "iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAYAAAD0xERiAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAhRJREFUOI1jYaAiYCFCDZOKkMGiO+8uxDEwMPyjyDBjIYccfnbeMEkhySOH322fQYlhAmK8wjWdPnNZK7ekNjC8Y1jMwMDwlSzDXCX9e7NtKvn5OPkZEi0LBH4x/Gna/XB9MTmGaUkISftqSxqxff/1jcFIyoKdj5U/joGBoZ+BgeEJSYbZCnnPzbGuEvn+6xtD084ChkaPSQw5NpWC73+/nbLv4eYAUgzzd9HzUhTnk2Zcf3Upw4qbcxic1HwY3NT9mTVE9CwvfD5q+u7du9PEGMZuK+nZH6ITJ/7i0xOGiu3JDAwMDAytu0oYzGRtGZLN88Uu3z838zDDdiOChkmyq5SkWRTycXFwM0w50sbwk+EnAwMDA8PDn3cYNl1byRBnksngZRwseXj39lAGBobV+AyTNJIwyrRWdBK++Ow0w/QL7SiSdQeyGJxVvBj8NSMktl1Z3XX4+c5NDAxQ29ANMxCy6i9ybBL49ecXw4T9TVhCgIFhyZmZDGUurQwpFoXcp7ZdKvz583kHhmFCQkJm5nJ2Fsoi6twP399lCDWKZwhliMdq4Idv7xhsFJ1F7YRMsnc/3zyXgYHhNbJhjHIMGtMyLEtkGBgYGOQFlRnkBZWxGoQMCl2aeO5vvdd2593VVGTDYr98/Wgw/XgXM0ETUIHA43fPkyQlJSc8f/78KsywRXd+Xl1058JVEs2CgOfPITQAEd+sJaLX9nYAAAAASUVORK5CYII=",
+        "contentType": "image/png",
+        "width": 14,
+        "height": 12,
+        "angle": 0,
+        "xoffset": 0,
+        "yoffset": 0
+      },
+      "label": "",
+      "description": ""
+    },
+    "transparency": 0,
+    "labelingInfo": [
+      {
+        "labelPlacement": "esriServerPointLabelPlacementAboveRight",
+        "where": null,
+        "labelExpression": "[BEAMS.Head_Regulator.HR_NAME_1]",
+        "useCodedValues": true,
+        "symbol": {
+          "type": "esriTS",
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "backgroundColor": null,
+          "borderLineColor": null,
+          "borderLineSize": null,
+          "verticalAlignment": "bottom",
+          "horizontalAlignment": "center",
+          "rightToLeft": false,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "kerning": true,
+          "haloColor": null,
+          "haloSize": null,
+          "font": {
+            "family": "Arial",
+            "size": 10,
+            "style": "normal",
+            "weight": "normal",
+            "decoration": "none"
+          }
+        },
+        "minScale": 0,
+        "maxScale": 0
+      }
+    ]
+  },
+  "defaultVisibility": false,
+  "extent": {
+    "xmin": 414801.7742,
+    "ymin": 2933663.1433,
+    "xmax": 493269.0674,
+    "ymax": 2942132.993,
+    "spatialReference": {
+      "wkid": 32645,
+      "latestWkid": 32645
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "BEAMS.Head_Regulator.HR_NAME_1",
+  "typeIdField": null,
+  "fields": [
+    {
+      "name": "BEAMS.Head_Regulator.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CAN_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CAN_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_NAME_1",
+      "type": "esriFieldTypeString",
+      "alias": "HR_NAME_1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_GATE",
+      "type": "esriFieldTypeDouble",
+      "alias": "HR_GATE",
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_GATE_U",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE_U",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_REMARKS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_FL_ACTI",
+      "type": "esriFieldTypeString",
+      "alias": "HR_FL_ACTI",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_TS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_UPD_ID",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_UPD_ID",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_UPD_TS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_UPD_TS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.HR_DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_DIV_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.Head_Regulator.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CAN_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CAN_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.CANNAME",
+      "type": "esriFieldTypeString",
+      "alias": "CANNAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "HR_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_GATE",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_GATE_U",
+      "type": "esriFieldTypeString",
+      "alias": "HR_GATE_U",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.UNIT_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "UNIT_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "HR_REMARKS",
+      "length": 500,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "HR_FL_ACTIVE",
+      "length": 1,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_CRT_ID",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_CRT_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_CRT_TS",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HRCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "HRCRTTS",
+      "length": 19,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_UPD_ID",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "HR_UPD_TS",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HRUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "HRUPDTS",
+      "length": 19,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.HR_DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "HR_DIV_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME",
+      "length": 100,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME",
+      "length": 500,
+      "domain": null
+    },
+    {
+      "name": "BEAMS.%V_HEAD_REGULATOR.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID",
+      "domain": null
+    }
+  ],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": true,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "hasM": true,
+  "supportedQueryFormats": "JSON, AMF",
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": false,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true
+  },
+  "dateFieldsTimeReference": null
+}

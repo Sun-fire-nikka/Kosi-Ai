@@ -1,0 +1,209 @@
+{
+  "layer_id": 2,
+  "layer_name": "Weir",
+  "field_count": 40,
+  "fields": [
+    {
+      "name": "BEAMS.Weir.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_ID"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_NAME"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "WEIR_LEN"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_LEN_U"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_RIV_I",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_RIV_I"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_SEC_I",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_SEC_I"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_REMAR",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_REMAR"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_FL_AC",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_FL_AC"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_CRT_I",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_CRT_I"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_CRT_T",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_CRT_T"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_UPD_I",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_UPD_I"
+    },
+    {
+      "name": "BEAMS.Weir.WEIR_UPD_T",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_UPD_T"
+    },
+    {
+      "name": "BEAMS.Weir.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "WEIR_LEN"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIRLENU",
+      "type": "esriFieldTypeString",
+      "alias": "WEIRLENU"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_LEN_U"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_SEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_SEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.SEC_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.SDIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.SDIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIRCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "WEIRCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "WEIR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.WEIRUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "WEIRUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_WEIR.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:37.219669"
+}

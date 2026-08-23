@@ -1,0 +1,189 @@
+{
+  "layer_id": 9,
+  "layer_name": "Drainage Outfall",
+  "field_count": 36,
+  "fields": [
+    {
+      "name": "BEAMS.Drainage_Outfall.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_ID"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_RIV_ID"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_ESEC_I",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_ESEC_I"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "DOF_CH"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_CH_U"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.DOF_REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_REMARK"
+    },
+    {
+      "name": "BEAMS.Drainage_Outfall.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_ESEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_ESEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.ESECNAME",
+      "type": "esriFieldTypeString",
+      "alias": "ESECNAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.ES_EMB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_EMB_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.ES_SEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_SEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.SEC_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.SDIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.SDIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "DOF_CH"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOFCHU",
+      "type": "esriFieldTypeString",
+      "alias": "DOFCHU"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_CH_U"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOFCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "DOFCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOF_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DOF_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.DOFUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "DOFUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_DRAINAGE_OUTFALL.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:41.120386"
+}

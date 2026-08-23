@@ -1,0 +1,384 @@
+{
+  "layer_id": 8,
+  "layer_name": "Anti Flood Sluice Gate",
+  "field_count": 75,
+  "fields": [
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_ESEC_I",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_ESEC_I"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_EMB_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "AFS_EMB_CH"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_GATE_S",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_GATE_S"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_RIV_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_REMARK"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_CRT_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_CRT_TS"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_UPD_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_UPD_TS",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_UPD_TS"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_FL_ACT",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_FL_ACT"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_EMB__1",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_EMB__1"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_CHA_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_JB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_JB_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_RB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_RB_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_GATE_1",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_GATE_1"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_B_ID"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_S_TYPE",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_S_TYPE"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.AFS_G_NO",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_G_NO"
+    },
+    {
+      "name": "BEAMS.Anti_Flood_Sluice_Gate.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_ESEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_ESEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_EMB_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "AFS_EMB_CH"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFSEMBCHU",
+      "type": "esriFieldTypeString",
+      "alias": "AFSEMBCHU"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_GATE_SIZE",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_GATE_SIZE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFSGATESIZEUNAME",
+      "type": "esriFieldTypeString",
+      "alias": "AFSGATESIZEUNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_CRT_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "AFS_CRT_TS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFSCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "AFSCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "AFS_UPD_TS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFSUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "AFSUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_EMB_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_EMB_CH_U"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_CHA_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.CHARNAME",
+      "type": "esriFieldTypeString",
+      "alias": "CHARNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_JB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_JB_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.JBNAME",
+      "type": "esriFieldTypeString",
+      "alias": "JBNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_RB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_RB_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.RBNAME",
+      "type": "esriFieldTypeString",
+      "alias": "RBNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_GATE_SIZE_U",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_GATE_SIZE_U"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_B_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_S_TYPE",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_S_TYPE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFSSTYPENAME",
+      "type": "esriFieldTypeString",
+      "alias": "AFSSTYPENAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.AFS_G_NO",
+      "type": "esriFieldTypeString",
+      "alias": "AFS_G_NO"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ES_EMB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_EMB_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.EMB_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ESECNAME",
+      "type": "esriFieldTypeString",
+      "alias": "ESECNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SEC_ST_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SEC_ST_CH"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SEC_ED_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SEC_ED_CH"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SDIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SDIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ES_SEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_SEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SEC_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ES_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "ES_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ES_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "ES_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.SEC_INCH",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_INCH"
+    },
+    {
+      "name": "BEAMS.%V_AFS.EMB_SIDE",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SIDE"
+    },
+    {
+      "name": "BEAMS.%V_AFS.EMB_SEQ",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_SEQ"
+    },
+    {
+      "name": "BEAMS.%V_AFS.BUNDHID",
+      "type": "esriFieldTypeString",
+      "alias": "BUNDHID"
+    },
+    {
+      "name": "BEAMS.%V_AFS.BUNDHNAME",
+      "type": "esriFieldTypeString",
+      "alias": "BUNDHNAME"
+    },
+    {
+      "name": "BEAMS.%V_AFS.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:39.646125"
+}

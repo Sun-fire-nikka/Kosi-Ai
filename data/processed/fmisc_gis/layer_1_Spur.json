@@ -1,0 +1,394 @@
+{
+  "layer_id": 1,
+  "layer_name": "Spur",
+  "field_count": 77,
+  "fields": [
+    {
+      "name": "BEAMS.Spur.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SPR_CH"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CH_U"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SPR_LEN"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_LEN_U"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_ESEC_I",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_ESEC_I"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CON_YE",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CON_YE"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_REMARK"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_FL_ACT",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_FL_ACT"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CRT_TS"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_UPD_TS",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_UPD_TS"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CHA_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_RB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_RB_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_B_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_JB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_JB_ID"
+    },
+    {
+      "name": "BEAMS.Spur.SPR_VILL_I",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_VILL_I"
+    },
+    {
+      "name": "BEAMS.Spur.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "SHAPE.LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE.LEN"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SPR_CH"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CH_U"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPRCHU",
+      "type": "esriFieldTypeString",
+      "alias": "SPRCHU"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SPR_LEN"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_LEN_U"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPRLENU",
+      "type": "esriFieldTypeString",
+      "alias": "SPRLENU"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_ESEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_ESEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CON_YEAR",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CON_YEAR"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CRT_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "SPR_CRT_TS"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPRCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "SPRCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_UPD_TS",
+      "type": "esriFieldTypeDate",
+      "alias": "SPR_UPD_TS"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPRUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "SPRUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_CHA_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_CHA_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.CHANAME",
+      "type": "esriFieldTypeString",
+      "alias": "CHANAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_RB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_RB_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.RBNAME",
+      "type": "esriFieldTypeString",
+      "alias": "RBNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.BNAME",
+      "type": "esriFieldTypeString",
+      "alias": "BNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_JB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_JB_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.JBNAME",
+      "type": "esriFieldTypeString",
+      "alias": "JBNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SPR_VILL_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SPR_VILL_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.VILLNAME",
+      "type": "esriFieldTypeString",
+      "alias": "VILLNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.VILL_DIST_ID",
+      "type": "esriFieldTypeString",
+      "alias": "VILL_DIST_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.DISTNAME",
+      "type": "esriFieldTypeString",
+      "alias": "DISTNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.VILL_BLK_ID",
+      "type": "esriFieldTypeString",
+      "alias": "VILL_BLK_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.BLKNAME",
+      "type": "esriFieldTypeString",
+      "alias": "BLKNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.ES_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.ES_EMB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_EMB_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.EMB_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.ESECNAME",
+      "type": "esriFieldTypeString",
+      "alias": "ESECNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SEC_ST_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SEC_ST_CH"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SEC_ED_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "SEC_ED_CH"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SDIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SDIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SDIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.DIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.DIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "DIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.C_ID",
+      "type": "esriFieldTypeString",
+      "alias": "C_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.C_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "C_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.Z_ID",
+      "type": "esriFieldTypeString",
+      "alias": "Z_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.Z_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "Z_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.ES_SEC_ID",
+      "type": "esriFieldTypeString",
+      "alias": "ES_SEC_ID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SEC_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_NAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.SEC_INCH",
+      "type": "esriFieldTypeString",
+      "alias": "SEC_INCH"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.EMB_SIDE",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SIDE"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.EMB_SEQ",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_SEQ"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.BUNDHID",
+      "type": "esriFieldTypeString",
+      "alias": "BUNDHID"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.BUNDHNAME",
+      "type": "esriFieldTypeString",
+      "alias": "BUNDHNAME"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.BUNDHNAMECHAINAGE",
+      "type": "esriFieldTypeString",
+      "alias": "BUNDHNAMECHAINAGE"
+    },
+    {
+      "name": "BEAMS.%V_SPUR.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:04:39.666737"
+}

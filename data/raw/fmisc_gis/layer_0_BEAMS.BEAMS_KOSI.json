@@ -1,0 +1,124 @@
+{
+  "currentVersion": 10.31,
+  "id": 0,
+  "name": "BEAMS.BEAMS_KOSI",
+  "type": "Group Layer",
+  "description": "",
+  "geometryType": null,
+  "copyrightText": "",
+  "parentLayer": null,
+  "subLayers": [
+    {
+      "id": 1,
+      "name": "Spur"
+    },
+    {
+      "id": 2,
+      "name": "Weir"
+    },
+    {
+      "id": 3,
+      "name": "Siphon"
+    },
+    {
+      "id": 4,
+      "name": "Silt Ejector"
+    },
+    {
+      "id": 5,
+      "name": "Silt Excluder"
+    },
+    {
+      "id": 6,
+      "name": "Sluice Gate"
+    },
+    {
+      "id": -1,
+      "name": ""
+    },
+    {
+      "id": 8,
+      "name": "Anti Flood Sluice Gate"
+    },
+    {
+      "id": 9,
+      "name": "Drainage Outfall"
+    },
+    {
+      "id": 10,
+      "name": "Head Regulator"
+    },
+    {
+      "id": 11,
+      "name": "River Bridge"
+    },
+    {
+      "id": 12,
+      "name": "Approach Dam"
+    },
+    {
+      "id": 13,
+      "name": "Barrage"
+    },
+    {
+      "id": 14,
+      "name": "Canal"
+    },
+    {
+      "id": 15,
+      "name": "Divider Wall"
+    },
+    {
+      "id": 16,
+      "name": "Guide Bundh"
+    },
+    {
+      "id": 17,
+      "name": "Jamindari Bundh"
+    },
+    {
+      "id": 18,
+      "name": "Embankment"
+    }
+  ],
+  "minScale": 0,
+  "maxScale": 0,
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 403340.4861,
+    "ymin": 2808756.6466,
+    "xmax": 556127.9031,
+    "ymax": 2964497.5677,
+    "spatialReference": {
+      "wkid": 32645,
+      "latestWkid": 32645
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeNone",
+  "displayField": "",
+  "typeIdField": null,
+  "fields": null,
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query",
+  "supportsStatistics": false,
+  "supportsAdvancedQueries": false,
+  "supportedQueryFormats": "JSON, AMF",
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": false,
+    "supportsOrderBy": false,
+    "supportsDistinct": false,
+    "supportsPagination": false,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true
+  }
+}

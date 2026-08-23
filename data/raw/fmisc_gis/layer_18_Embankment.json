@@ -1,0 +1,350 @@
+{
+  "currentVersion": 10.31,
+  "id": 18,
+  "name": "Embankment",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPolyline",
+  "copyrightText": "",
+  "parentLayer": {
+    "id": 0,
+    "name": "BEAMS.BEAMS_KOSI"
+  },
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [
+          168,
+          56,
+          0,
+          255
+        ],
+        "width": 2
+      },
+      "label": "",
+      "description": ""
+    },
+    "transparency": 0,
+    "labelingInfo": [
+      {
+        "labelPlacement": "esriServerLinePlacementAboveAlong",
+        "where": null,
+        "labelExpression": "[EMB_NAME]",
+        "useCodedValues": true,
+        "symbol": {
+          "type": "esriTS",
+          "color": [
+            0,
+            0,
+            0,
+            255
+          ],
+          "backgroundColor": null,
+          "borderLineColor": null,
+          "borderLineSize": null,
+          "verticalAlignment": "bottom",
+          "horizontalAlignment": "center",
+          "rightToLeft": false,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "kerning": true,
+          "haloColor": null,
+          "haloSize": null,
+          "font": {
+            "family": "Arial",
+            "size": 8,
+            "style": "normal",
+            "weight": "normal",
+            "decoration": "none"
+          }
+        },
+        "minScale": 0,
+        "maxScale": 0
+      }
+    ]
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 414089.5156,
+    "ymin": 2808756.6466,
+    "xmax": 523046.2129,
+    "ymax": 2964497.5677,
+    "spatialReference": {
+      "wkid": 32645,
+      "latestWkid": 32645
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "EMB_NAME",
+  "typeIdField": null,
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "EMB_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_NAME",
+      "length": 150,
+      "domain": null
+    },
+    {
+      "name": "EMB_ID",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_SCEMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_SCEMB_",
+      "domain": null
+    },
+    {
+      "name": "EMB_SCEMB1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEMB1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMBSCEMBSU",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMBSCEMBSU",
+      "domain": null
+    },
+    {
+      "name": "EMB_ECEMB_",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEMB_",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_ECEMB1",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_ECEMB1",
+      "domain": null
+    },
+    {
+      "name": "EMBECEMBSU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBECEMBSU",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_TLEMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_TLEMB_",
+      "domain": null
+    },
+    {
+      "name": "EMB_TLEMB1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEMB1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMBTLEMBSU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBTLEMBSU",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_SCEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEM_1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_SCEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_SCEM_2",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMBSCEMBGU",
+      "type": "esriFieldTypeDate",
+      "alias": "EMBSCEMBGU",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "EMB_REMARK",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_REMARK",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_FL_ACT",
+      "type": "esriFieldTypeDate",
+      "alias": "EMB_FL_ACT",
+      "length": 36,
+      "domain": null
+    },
+    {
+      "name": "EMB_B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_B_ID",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "BASIN",
+      "type": "esriFieldTypeString",
+      "alias": "BASIN",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_RIV_ID",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_RIV_ID",
+      "domain": null
+    },
+    {
+      "name": "RIVNAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIVNAME",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_DWF",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DWF",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_DWF_U",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DWF_U",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMBDWFU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBDWFU",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_DSRS",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_DSRS",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_DSCS",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_DSCS",
+      "domain": null
+    },
+    {
+      "name": "EMB_CSD",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_CSD",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_CED",
+      "type": "esriFieldTypeDouble",
+      "alias": "EMB_CED",
+      "domain": null
+    },
+    {
+      "name": "EMB_ECEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEM_1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_ECEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_ECEM_2",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMBECEMBGU",
+      "type": "esriFieldTypeString",
+      "alias": "EMBECEMBGU",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_TLEM_1",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEM_1",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "EMB_TLEM_2",
+      "type": "esriFieldTypeString",
+      "alias": "EMB_TLEM_2",
+      "length": 254,
+      "domain": null
+    },
+    {
+      "name": "SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "SHAPE.LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE.LEN",
+      "domain": null
+    }
+  ],
+  "relationships": [],
+  "canModifyLayer": false,
+  "canScaleSymbols": false,
+  "hasLabels": true,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 1000,
+  "supportsStatistics": true,
+  "supportsAdvancedQueries": true,
+  "hasM": true,
+  "supportedQueryFormats": "JSON, AMF",
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsPagination": false,
+    "supportsTrueCurve": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true
+  },
+  "dateFieldsTimeReference": null
+}

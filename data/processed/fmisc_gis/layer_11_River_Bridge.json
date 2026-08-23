@@ -1,0 +1,239 @@
+{
+  "layer_id": 11,
+  "layer_name": "River Bridge",
+  "field_count": 46,
+  "fields": [
+    {
+      "name": "BEAMS.River_Bridge.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "BR_NAME"
+    },
+    {
+      "name": "BEAMS.River_Bridge.FID_1",
+      "type": "esriFieldTypeInteger",
+      "alias": "FID_1"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_ID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_R_EMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "BRR_R_EMB_"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_R_EMB1",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_R_EMB1"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_L_EMB_",
+      "type": "esriFieldTypeDouble",
+      "alias": "BRR_L_EMB_"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_L_EMB1",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_L_EMB1"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_LEN",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_LEN"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_LEN_U"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_RIV_ID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_CONST_",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CONST_"
+    },
+    {
+      "name": "BEAMS.River_Bridge.REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "REMARKS"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_CRT_TS",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CRT_TS"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_UPD_TS",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_UPD_TS"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_FL_ACT",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_FL_ACT"
+    },
+    {
+      "name": "BEAMS.River_Bridge.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.River_Bridge.BRR_CONNEC",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CONNEC"
+    },
+    {
+      "name": "BEAMS.River_Bridge.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE"
+    },
+    {
+      "name": "SHAPE.LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "SHAPE.LEN"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_ID"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_NAME"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_R_EMB_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "BRR_R_EMB_CH"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_R_EMB_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_R_EMB_CH_U"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRRREMBCHU",
+      "type": "esriFieldTypeString",
+      "alias": "BRRREMBCHU"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_L_EMB_CH",
+      "type": "esriFieldTypeDouble",
+      "alias": "BRR_L_EMB_CH"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_L_EMB_CH_U",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_L_EMB_CH_U"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRRLEMBCHU",
+      "type": "esriFieldTypeString",
+      "alias": "BRRLEMBCHU"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_LEN",
+      "type": "esriFieldTypeDouble",
+      "alias": "BRR_LEN"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_LEN_U",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_LEN_U"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRRLENU",
+      "type": "esriFieldTypeString",
+      "alias": "BRRLENU"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_RIV_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_RIV_ID"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.RIV_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "RIV_NAME"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.B_ID",
+      "type": "esriFieldTypeString",
+      "alias": "B_ID"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.B_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "B_NAME"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_CONST_YEAR",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CONST_YEAR"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_REMARKS",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_REMARKS"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_CRT_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CRT_ID"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRRCRTTS",
+      "type": "esriFieldTypeString",
+      "alias": "BRRCRTTS"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_UPD_ID",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_UPD_ID"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRRUPDTS",
+      "type": "esriFieldTypeString",
+      "alias": "BRRUPDTS"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_FL_ACTIVE",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_FL_ACTIVE"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.BRR_CONNECT",
+      "type": "esriFieldTypeString",
+      "alias": "BRR_CONNECT"
+    },
+    {
+      "name": "BEAMS.%V_BRIDGE_RIVER.ESRI_OID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ESRI_OID"
+    }
+  ],
+  "record_count": 0,
+  "extracted_at": "2026-08-22T23:07:43.317352"
+}

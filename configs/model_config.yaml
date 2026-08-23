@@ -1,0 +1,24 @@
+model:
+  version: "V0.1"
+  status: ENGINEERING_INFORMED_VULNERABILITY_NOT_BREACH_PREDICTION
+  weights:
+    hydrological_stress: 0.40
+    condition: 0.30
+    historical_vulnerability: 0.20
+    data_quality: -0.10   # penalty per point of missing core data
+
+condition_scores:
+  GOOD: 20
+  FAIR: 45
+  POOR: 75
+  CRITICAL: 95
+
+vulnerability_classes:
+  - [0, 40, LOW]
+  - [40, 60, MODERATE]
+  - [60, 80, HIGH]
+  - [80, 101, CRITICAL]
+
+scenario:
+  label: SCENARIO_SIMULATION_NOT_A_VALIDATED_FLOOD_FORECAST
+  allowed_deltas_m: [-2.0, -1.5, -1.0, -0.5, 0.5, 1.0, 1.5, 2.0]
