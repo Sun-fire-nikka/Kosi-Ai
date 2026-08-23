@@ -28,3 +28,5 @@ models/**/*.pkl
 # Editor
 .vscode/
 .idea/
+WhatsApp*.jpeg
+ed-mausam*
